@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Neo (@neo01777)
+# 👋 Hi, I'm Neo (@ne017)
 
 ## About Me
 I'm a passionate cybersecurity student at BeCode with a growing interest in Linux customization and system optimization. My journey involves exploring both offensive and defensive security practices while building my first Arch Linux environment. Currently diving into the world of ricing and security hardening.
